@@ -2,13 +2,12 @@
 This is the class project assignments for Getting-and-Cleaning-Data-Course.
 
 The script "run_analysis.R" contains 5 parts to deal with the orignal data set - Human Activity Recognition Using Smartphones Dataset Version 1.0.
-## Step 1 Merges the training and the test sets to create one data set.
-## Step 2 Extracts only the measurements on the mean and standard deviation for each measurement.
-## Step3 Uses descriptive activity names to name the activities in the data set
-## Step 4 Appropriately labels the data set with descriptive variable names. 
-## Step 5 From the data set in step 4, creates a second, 
-## independent tidy data set with the average of each variable
-## for each activity and each subject.
+Step 1 Merges the training and the test sets to create one data set.
+Step 2 Extracts only the measurements on the mean and standard deviation for each measurement.
+Step3 Uses descriptive activity names to name the activities in the data set
+Step 4 Appropriately labels the data set with descriptive variable names. 
+Step 5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable
+for each activity and each subject.
 
 You can check the notes in the script to see the detail steps in each parts.
 
