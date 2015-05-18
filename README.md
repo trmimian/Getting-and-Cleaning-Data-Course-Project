@@ -9,7 +9,7 @@ Step 4 Appropriately labels the data set with descriptive variable names.
 Step 5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable
 for each activity and each subject.
 
-You can check the notes in the script to see the detail steps in each parts.
+You can check the notes in the script to see the detail steps in each parts. I believe it's not necessary to copy everything to readme.
 
 #The following is the codebook for my "tidy dataset".
 
