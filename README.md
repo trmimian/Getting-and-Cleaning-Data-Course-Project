@@ -14,13 +14,13 @@ You can check the notes in the script to see the detail steps in each parts.
 #The following is the codebook for my "tidy dataset".
 
 subject
-  Identify the volunteer in the group of 30 volunteers who take part in the experiment.
+Identify the volunteer in the group of 30 volunteers who take part in the experiment.
   
 activityname
-  Identify the activity [Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING,   LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.]
+Identify the activity [Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING,   LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.]
   
 tBodyAcc-mean()-X
-  The avearage of the feature tBodyAcc-mean()-X for each activity and each subject.
+The avearage of the feature tBodyAcc-mean()-X for each activity and each subject.
 
 tBodyAcc-mean()-X  The avearage of the feature tBodyAcc-mean()-X for each activity and each subject.
 
@@ -165,10 +165,17 @@ fBodyAccMag-meanFreq()  The avearage of the feature fBodyAccMag-meanFreq() for e
 fBodyBodyAccJerkMag-mean()  The avearage of the feature fBodyBodyAccJerkMag-mean() for each activity and each subject.
 
 fBodyBodyAccJerkMag-std()  The avearage of the feature fBodyBodyAccJerkMag-std() for each activity and each subject.
+
 fBodyBodyAccJerkMag-meanFreq()  The avearage of the feature fBodyBodyAccJerkMag-meanFreq() for each activity and each subject.
+
 fBodyBodyGyroMag-mean()  The avearage of the feature fBodyBodyGyroMag-mean() for each activity and each subject.
+
 fBodyBodyGyroMag-std()  The avearage of the feature fBodyBodyGyroMag-std() for each activity and each subject.
+
 fBodyBodyGyroMag-meanFreq()  The avearage of the feature fBodyBodyGyroMag-meanFreq() for each activity and each subject.
+
 fBodyBodyGyroJerkMag-mean()  The avearage of the feature fBodyBodyGyroJerkMag-mean() for each activity and each subject.
+
 fBodyBodyGyroJerkMag-std()  The avearage of the feature fBodyBodyGyroJerkMag-std() for each activity and each subject.
+
 fBodyBodyGyroJerkMag-meanFreq()  The avearage of the feature fBodyBodyGyroJerkMag-meanFreq() for each activity and each subject.
