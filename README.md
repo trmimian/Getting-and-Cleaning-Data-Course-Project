@@ -14,7 +14,7 @@ You can check the notes in the script to see the detail steps in each parts.
 #The following is the codebook for my "tidy dataset".
 
 subject
-1-30 Identify the volunteer in the group of 30 volunteers who take part in the experiment.
+[1-30] Identify the volunteer in the group of 30 volunteers who take part in the experiment.
   
 activityname
 [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING,  LAYING]
