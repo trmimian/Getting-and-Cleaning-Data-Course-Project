@@ -137,19 +137,33 @@ fBodyAccJerk-meanFreq()-X  The avearage of the feature fBodyAccJerk-meanFreq()-X
 fBodyAccJerk-meanFreq()-Y  The avearage of the feature fBodyAccJerk-meanFreq()-Y for each activity and each subject.
 
 fBodyAccJerk-meanFreq()-Z  The avearage of the feature fBodyAccJerk-meanFreq()-Z for each activity and each subject.
+
 fBodyGyro-mean()-X  The avearage of the feature fBodyGyro-mean()-X for each activity and each subject.
+
 fBodyGyro-mean()-Y  The avearage of the feature fBodyGyro-mean()-Y for each activity and each subject.
+
 fBodyGyro-mean()-Z  The avearage of the feature fBodyGyro-mean()-Z for each activity and each subject.
+
 fBodyGyro-std()-X  The avearage of the feature fBodyGyro-std()-X for each activity and each subject.
+
 fBodyGyro-std()-Y  The avearage of the feature fBodyGyro-std()-Y for each activity and each subject.
+
 fBodyGyro-std()-Z  The avearage of the feature fBodyGyro-std()-Z for each activity and each subject.
+
 fBodyGyro-meanFreq()-X  The avearage of the feature fBodyGyro-meanFreq()-X for each activity and each subject.
+
 fBodyGyro-meanFreq()-Y  The avearage of the feature fBodyGyro-meanFreq()-Y for each activity and each subject.
+
 fBodyGyro-meanFreq()-Z  The avearage of the feature fBodyGyro-meanFreq()-Z for each activity and each subject.
+
 fBodyAccMag-mean()  The avearage of the feature fBodyAccMag-mean() for each activity and each subject.
+
 fBodyAccMag-std()  The avearage of the feature fBodyAccMag-std() for each activity and each subject.
+
 fBodyAccMag-meanFreq()  The avearage of the feature fBodyAccMag-meanFreq() for each activity and each subject.
+
 fBodyBodyAccJerkMag-mean()  The avearage of the feature fBodyBodyAccJerkMag-mean() for each activity and each subject.
+
 fBodyBodyAccJerkMag-std()  The avearage of the feature fBodyBodyAccJerkMag-std() for each activity and each subject.
 fBodyBodyAccJerkMag-meanFreq()  The avearage of the feature fBodyBodyAccJerkMag-meanFreq() for each activity and each subject.
 fBodyBodyGyroMag-mean()  The avearage of the feature fBodyBodyGyroMag-mean() for each activity and each subject.
