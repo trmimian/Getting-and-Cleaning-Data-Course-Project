@@ -11,7 +11,7 @@ for each activity and each subject.
 
 You can check the notes in the script to see the detail steps in each parts.
 
-The following is the codebook for my "tidy dataset".
+#The following is the codebook for my "tidy dataset".
 
 subject
   Identify the volunteer in the group of 30 volunteers who take part in the experiment.
