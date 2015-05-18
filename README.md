@@ -14,17 +14,23 @@ You can check the notes in the script to see the detail steps in each parts.
 #The following is the codebook for my "tidy dataset".
 
 subject
-Identify the volunteer in the group of 30 volunteers who take part in the experiment.
+1-30 Identify the volunteer in the group of 30 volunteers who take part in the experiment.
   
 activityname
-Identify the activity [Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING,   LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.]
+[WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING,  LAYING]
+Identify the activity [Each person performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist.]
   
 tBodyAcc-mean()-X
 The avearage of the feature tBodyAcc-mean()-X for each activity and each subject.
+Features are normalized and bounded within [-1,1]. Same for the following variables.
 
-tBodyAcc-mean()-X  The avearage of the feature tBodyAcc-mean()-X for each activity and each subject.
+tBodyAcc-mean()-X  
+The avearage of the feature tBodyAcc-mean()-X for each activity and each subject.
+Features are normalized and bounded within [-1,1]. Same for the following variables.
 
-tBodyAcc-mean()-Y  The avearage of the feature tBodyAcc-mean()-Y for each activity and each subject.
+tBodyAcc-mean()-Y  
+The avearage of the feature tBodyAcc-mean()-Y for each activity and each subject.
+Features are normalized and bounded within [-1,1]. Same for the following variables.
 
 tBodyAcc-mean()-Z  The avearage of the feature tBodyAcc-mean()-Z for each activity and each subject.
 
